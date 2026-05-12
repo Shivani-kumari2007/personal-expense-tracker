@@ -1,34 +1,33 @@
-# 💰 Personal Expense Tracker
+# 💰 Personal Expense Tracker (Major Project)
 
 ## 📌 Overview
-A Python-based application to track and analyze daily expenses using Pandas and NumPy.
+A Python-based Expense Tracker with an interactive web dashboard built using Streamlit.  
+This project allows users to track daily expenses, visualize spending patterns, and get basic predictions of future expenses.
 
-## ⚙️ Features
-- Add expenses
-- Store data in CSV
-- Analyze spending patterns
+---
+
+## 🚀 Features
+- ➕ Add expenses via UI  
+- 📊 View data in tabular format  
+- 📅 Monthly filtering system  
+- 📈 Category-wise bar chart  
+- 🥧 Pie chart for distribution  
+- 🤖 Spending prediction using NumPy  
+- ⚡ Real-time dashboard  
+
+---
 
 ## 🛠️ Tech Stack
-- Python
-- Pandas
-- NumPy
+- Python  
+- Pandas  
+- NumPy  
+- Streamlit  
+- Matplotlib  
 
-## ▶️ How to Run
-pip install pandas numpy
-python main.py
+---
 
-## 🚀 New Feature: Web Dashboard
+## ▶️ How to Run Locally
 
-This project now includes a web-based UI built using Streamlit.
-
-### Features:
-- Add expenses via UI
-- View data in table format
-- Category-wise bar chart
-- Total spending calculation
-
-### Run Web App:
-pip install streamlit pandas
-streamlit run app.py
+1. Install dependencies:
 
 ![alt text](image.png)
