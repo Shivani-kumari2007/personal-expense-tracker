@@ -31,3 +31,4 @@ This project allows users to track daily expenses, visualize spending patterns, 
 1. Install dependencies:
 
 ![alt text](image.png)
+![alt text](image-1.png)
